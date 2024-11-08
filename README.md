@@ -1,9 +1,10 @@
 [PGP Пуб. ключ](pgp-pubkey.asc)
 
 <p align="center">
-![Visitor Count](https://profile-counter.glitch.me/vi-tr/count.svg)
+<img src="https://profile-counter.glitch.me/vi-tr/count.svg" />
 </p>
 
 <p align="center">
-[![got HTML?](res/got_html.gif)](data:text/html;charset=utf-8;base64,WWVzLg==) [![Marble](res/white_marble.gif)](https://en.wikipedia.org/wiki/Marble)
+<a href="data:text/html;charset=utf-8;base64,WWVzLg=="><img src="res/got_html.gif"/></a>
+<a href="https://en.wikipedia.org/wiki/Marble"><img src="res/white_marble.gif"/></a>
 </p>
